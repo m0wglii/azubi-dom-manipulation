@@ -1,0 +1,42 @@
+body {
+    font-family: system-ui, sans-serif;
+    margin: 2rem;
+}
+
+.hint {
+    color: #666;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+.controls {
+    display: flex;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+button {
+    padding: 0.5rem 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f7f7f7;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background: #efefef;
+}
+
+.paragraphs p {
+    margin: .25rem 0;
+}
+
+/* Farben über Klassen, nicht inline */
+.blue {
+    color: #1f6feb; /* blau */
+}
+
+.red {
+    color: #d7263d; /* rot */
+}
