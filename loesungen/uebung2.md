@@ -25,6 +25,7 @@ button.addEventListener("click", () => {
 ---
 
 ## Erklärung
+
 - `getElementById` selektiert Button und Ausgabefeld.
 - `addEventListener("click", ...)` registriert die Reaktion auf Klicks.
 - `count` wird hochgezählt, damit die Azubis die Wiederholbarkeit sehen.

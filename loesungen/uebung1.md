@@ -13,4 +13,5 @@ box.innerText = "Hallo Azubi";
 // TODO: Füge die CSS-Klasse "highlight" hinzu
 box.classList.add("highlight");
 ```
+
 </details>

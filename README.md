@@ -1,6 +1,7 @@
 # DOM-Manipulation – Übungsreihe (Azubis FIAE)
 
-Dieses Repository enthält **fünf aufeinander aufbauende Übungen** und ein Mini-Projekt zur DOM-Manipulation mit Vanilla JavaScript.
+Dieses Repository enthält **fünf aufeinander aufbauende Übungen** und ein Mini-Projekt zur DOM-Manipulation mit Vanilla
+JavaScript.
 
 - **Übung 1:** Selektieren & Ändern
 - **Übung 2:** Eventlistener Basics
@@ -9,12 +10,16 @@ Dieses Repository enthält **fünf aufeinander aufbauende Übungen** und ein Min
 - **Übung 5:** Mini-Projekt „Dashboard“
 
 ## Nutzung
+
 1. Ordner öffnen (z. B. `uebung1 - selektieren & aendern`) und `index.html` im Browser starten.  
-   👉 Empfehlung: [VS Code Extension **Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) installieren.
+   👉 Empfehlung: [VS Code Extension **Live Server
+   **](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) installieren.
 2. Aufgaben in `script.js` (TODOs) bearbeiten und speichern.
-3. Optional: **Musterlösungen** im Ordner [`loesungen`](./loesungen) nachschauen (Markdown-Dateien mit ausklappbaren Code-Beispielen).
+3. Optional: **Musterlösungen** im Ordner [`loesungen`](./loesungen) nachschauen (Markdown-Dateien mit ausklappbaren
+   Code-Beispielen).
 
 ## Lernziele
+
 - DOM selektieren (`getElementById`, `querySelectorAll`)
 - Inhalte und Klassen verändern (`innerText`, `classList.add`, `classList.toggle`)
 - Elemente dynamisch erstellen und entfernen (`createElement`, `appendChild`, `removeChild`)

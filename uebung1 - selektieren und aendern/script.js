@@ -3,5 +3,3 @@
 // TODO: Ändere den Text von #box zu "Hallo Azubi"
 
 // TODO: Füge die CSS-Klasse "highlight" hinzu
-
-

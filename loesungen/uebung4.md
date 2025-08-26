@@ -54,6 +54,7 @@ paragraphs.forEach(p => p.addEventListener("click", () => p.classList.toggle("bl
 ---
 
 ## Erklärung
+
 - `querySelectorAll` liefert eine NodeList, die wir per `forEach` iterieren.
 - Farbsetzung geschieht **nur** über Klassen (`.blue`, `.red`) – kein Inline-Style.
 - `clearColors` räumt vor jeder Aktion auf → eindeutiger Zustand.

@@ -61,6 +61,7 @@ removeBtn.addEventListener("click", () => {
 ---
 
 ## Erklärung
+
 - `createElement`/`appendChild` erzeugen und hängen neue Listeneinträge an.
 - `lastElementChild` + `removeChild` entfernen den letzten Eintrag sicher.
 - Der **Platzhalter „Keine Einträge“** verhindert ein „leeres“ UI und trainiert einfache Zustandslogik.

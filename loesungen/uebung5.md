@@ -74,11 +74,13 @@ resetBtn.addEventListener("click", () => {
 // Initialer Zustand
 updateRemoveState();
 ```
+
 </details>
 
 ---
 
 ## Erklärung
+
 - **Erstellen/Löschen:** `createElement`/`appendChild`/`removeChild` bauen das Grid dynamisch auf bzw. räumen es auf.
 - **Zustandsklassen:** Einfärben erfolgt nur über die CSS-Klasse `.colored` (keine Inline-Styles).
 - **UX-Detail:** Der Löschen-Button wird deaktiviert, wenn keine Karten vorhanden sind.
