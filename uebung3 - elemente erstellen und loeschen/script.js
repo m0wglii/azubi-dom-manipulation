@@ -8,4 +8,7 @@
 
 // BONUS (optional):
 // - Verwende eine fortlaufende Nummer: "Item 1", "Item 2", ...
+// BONUS++ (optional):
+// - Wie könnte man das ganze Lösen, ohne dafür JavaScript zu verwenden?
+
 // - Wenn die Liste leer ist, zeige stattdessen einen Platzhalter-Text "<li class='empty-hint'>Keine Einträge</li>"
