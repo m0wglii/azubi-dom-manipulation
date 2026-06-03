@@ -42,7 +42,7 @@ addBtn.addEventListener("click", () => {
     li.innerText = `Item ${count}`; // BONUS: fortlaufende Nummer
     list.appendChild(li);
 });
-
+// BONUS++ Lösung: In Zeile 20, die <ul> (unordered List) in eine <ol> (ordered List) switchen.  
 // TODO: Klicke auf "removeBtn" → letztes <li> entfernen (falls vorhanden)
 // Tipp: list.lastElementChild prüfen und removeChild nutzen
 removeBtn.addEventListener("click", () => {
@@ -65,3 +65,4 @@ removeBtn.addEventListener("click", () => {
 - `createElement`/`appendChild` erzeugen und hängen neue Listeneinträge an.
 - `lastElementChild` + `removeChild` entfernen den letzten Eintrag sicher.
 - Der **Platzhalter „Keine Einträge“** verhindert ein „leeres“ UI und trainiert einfache Zustandslogik.
+- Die **orderedList** Component in HTML gibt den Listeneinträgen automatisch Nummern. Somit ist <br> eine JavaScript Logik, hierfür gar nicht nötig.
